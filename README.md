@@ -19,8 +19,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **adeel.techpro@gmail.com** <a href="www.linkedin.com/in/muhammad-adeel-953245257">LinkedIn</a>(https://github.com/madeelworks)">Portfolio</a><br/>
-
+- 📫 How to reach me **adeel.techpro@gmail.com** <a href="www.linkedin.com/in/muhammad-adeel-953245257">LinkedIn</a>
 -  ⚡ Fun fact: Passionate about innovation and problem solving and curious to dive into the depth of Artificial Intelligence.</br>
 
 <h3 align="left">Connect with me:</h3>
