@@ -34,8 +34,7 @@
     <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="express" width="40" height="40"/> </a>
           <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-    <a href="mui.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="graphql" width="40" height="40"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="bootstrap" width="40" height="40"/>
 </p>
